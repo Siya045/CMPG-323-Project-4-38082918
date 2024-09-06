@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="IdQgVZ3vjU6cN1DhEQoGCw" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://techtrendstelemetryportal.azurewebsites.net/Account/Login" CVScreenId="45fa0907-0bc8-4e85-a143-682a99693a86" DesignTimeRectangle="290, 386, 332, 58" DesignTimeScaleFactor="1" ElementType="InputBox" FullSelectorArgument="&lt;webctrl name='Input.Email' tag='INPUT' /&gt;" Guid="2796dec1-f520-447e-9777-5c5e1edbcab1" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Log in' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <TargetAnchorable.Anchors>
+        <scg:List x:TypeArguments="ITarget" Capacity="4">
+          <Target CVScreenId="45fa0907-0bc8-4e85-a143-682a99693a86" CvElementArea="288, 407, 341, 61" CvType="InputBox" DesignTimeRectangle="288, 459, 336, 62" ElementType="Text" FuzzySelectorArgument="&lt;webctrl tag='LABEL' type='' class='form-label' aaname='Email' check:innerText='Email' /&gt;" Guid="2c25d425-878f-4445-a50d-5e41bd693944" SearchSteps="FuzzySelector, CV" />
+        </scg:List>
+      </TargetAnchorable.Anchors>
+      <imageRef attrName="InformativeScreenshot" originalValue="89d7d59c136eb432d1c9ed0794ff0050.png" xmlns="">0VuYhYOFlNkmejOQ_VLF3OA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
